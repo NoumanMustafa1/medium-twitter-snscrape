@@ -1,0 +1,4 @@
+#snscrape installation
+pip3 install git+https://github.com/JustAnotherArchivist/snscrape.git
+
+#NOTE: This needs to be the latest version due to twitter API's recent issues and its best if you are working in a virtual environment install this last.
