@@ -1,1 +1,1 @@
-# medium-twitter-snsrape
+# medium-twitter-snscrape
